@@ -26,4 +26,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Separate branches are good for advancing a piece of functionality that is not yet a part of the primary function of the product. So if a logical change to code is not part of the primary function of the application it may be best to be kept in a branch. Making changes in master are good for simplifying some groups of changes to code in which the goal of the product is simple or linear and everyone is mostly on the same page (possibly if collaborators are in group-think mode - more or less). Branch work is good for teammates having sandboxes for themselves in which they can explore ideas or functions that are not yet agreed to be a part of the group's or product goal.
