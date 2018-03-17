@@ -21,7 +21,7 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Without Github it seems a lot of direct or in-person communication would be necessary. Reviewing logic may be less abstract and possibly easier or efficient, but scheduling would be much more of a block to productivity.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
